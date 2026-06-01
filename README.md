@@ -30,27 +30,32 @@ playlist:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/playlist
 
 playlist track:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/playlist_track.csv<br><br>
 
-Key Analysis:
-Customer purchase frequency
-Revenue trends
-Customer retention vs churn (time-based logic)
-Repeat vs one-time customers
+Key Analysis:<br><br>
+Customer purchase frequency<br><br>
+Revenue trends<br><br>
+Customer retention vs churn (time-based logic)<br><br>
+Repeat vs one-time customers<br><br>
 
-Key Insights:
-Identified high churn segments based on inactivity periods
-Customers with frequent purchases contributed majority revenue
-Retention significantly drops after 1 month.
+Key Insights:<br><br>
+Identified high churn segments based on inactivity periods<br><br>
+Customers with frequent purchases contributed majority revenue<br><br>
+Retention significantly drops after 1 month.<br><br>
 
-Dashboard Features:
-Monthly revenue trend
-Customer segmentation
-KPI cards for quick insights
+Dashboard Features:<br><br>
+Monthly revenue trend<br><br>
+Customer segmentation<br><br>
+KPI cards for quick insights<br><br>
 
-Business Impact:
-Helps identify at-risk customers
-Enables targeted retention strategies
-Improves customer lifetime value
-Identity High revenue Generating Tracks,Artist,Genre
-Yearly Wise Comparison
+Business Impact:<br><br>
+Helps identify at-risk customers<br><br>
+Enables targeted retention strategies<br><br>
+Improves customer lifetime value<br><br>
+Identity High revenue Generating Tracks,Artist,Genre<br><br>
+Yearly Wise Comparison<br><br>
+
+Screesnshots:<br><br>
+EXECUTIVE:<br><br>
+ANALYSIS:<br><br>
+EMPLOYEE AND CUSTOMER:<br><br>
 
 
