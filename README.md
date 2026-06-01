@@ -54,10 +54,14 @@ Identity High revenue Generating Tracks,Artist,Genre<br><br>
 Yearly Wise Comparison<br><br>
 
 Screesnshots:<br><br>
-PYTHON DATA CLEANING:<br><br>
-SQL QUERIES:<br><br>
-EXECUTIVE:<br><br>
-ANALYSIS:<br><br>
-EMPLOYEE AND CUSTOMER:<br><br>
+PYTHON DATA CLEANING:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/PYTHON%20MUSIC%20DATA%20CLEANING.py<br><br>
+SQL QUERIES:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/MUSIC%20COMPLEX%20QUERIES.docx
+<br><br>
+EXECUTIVE:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/EXECUTIVE.png
+<br><br>
+ANALYSIS:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/ANALYSIS.png
+<br><br>
+EMPLOYEE AND CUSTOMER:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/EMPLOYEE%20AND%20CUSTOMER.png
+<br><br>
 
 
