@@ -8,6 +8,27 @@ Power BI (Dashboard & DAX)
 
  Dataset:
 
+invoice:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Invoice.csv<br><br>
+
+line:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Invoice_Line.csv<br><br>
+genre:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Genre.csv<br><br>
+
+employees:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Employees.csv<br><br>
+
+Artist:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Artist.csv<br><br>
+
+Album:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Album.csv<br><br>
+
+Track:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/Track.csv<br><br>
+
+
+customers:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/customers.csv<br><br>
+
+mediatype:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/media_type.csv<br><br>
+
+playlist:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/playlist.csv<br><br>
+
+playlist track:https://github.com/sherinstella/ITUNE-MUSIC-INSIGHTS/blob/main/playlist_track.csv<br><br>
 
 Key Analysis:
 Customer purchase frequency
