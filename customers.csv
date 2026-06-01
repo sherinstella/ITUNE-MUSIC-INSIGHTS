@@ -1,0 +1,60 @@
+,customer_id,address,city,state,country,postal_code,phone,email,support_rep_id,full_name
+0,1,"Av. Brigadeiro Faria Lima, 2170",São José dos Campos,SP,Brazil,12227-000,+55 (12) 3923-5555,luisg@embraer.com.br,3,Luís Gonçalves
+1,2,Theodor-Heuss-Straße 34,Stuttgart,CA,Germany,70174,+49 0711 2842222,leonekohler@surfeu.de,5,Leonie Köhler
+2,3,1498 rue Bélanger,Montréal,QC,Canada,H2G 1A7,+1 (514) 721-4711,ftremblay@gmail.com,3,François Tremblay
+3,4,Ullevålsveien 14,Oslo,CA,Norway,171,+47 22 44 22 22,bjorn.hansen@yahoo.no,4,Bjørn Hansen
+4,5,Klanova 9/506,Prague,CA,Czech Republic,14700,+420 2 4172 5555,frantisekw@jetbrains.com,4,František Wichterlová
+5,6,Rilská 3174/6,Prague,CA,Czech Republic,14300,+420 2 4177 0449,hholy@gmail.com,5,Helena Holý
+6,7,"Rotenturmstraße 4, 1010 Innere Stadt",Vienne,CA,Austria,1010,+43 01 5134505,astrid.gruber@apple.at,5,Astrid Gruber
+7,8,Grétrystraat 63,Brussels,CA,Belgium,1000,+32 02 219 03 03,daan_peeters@apple.be,4,Daan Peeters
+8,9,Sønder Boulevard 51,Copenhagen,CA,Denmark,1720,+453 3331 9991,kara.nielsen@jubii.dk,4,Kara Nielsen
+9,10,"Rua Dr. Falcão Filho, 155",São Paulo,SP,Brazil,01007-010,+55 (11) 3033-5446,eduardo@woodstock.com.br,4,Eduardo Martins
+10,11,"Av. Paulista, 2022",São Paulo,SP,Brazil,01310-200,+55 (11) 3055-3278,alero@uol.com.br,5,Alexandre Rocha
+11,12,"Praça Pio X, 119",Rio de Janeiro,RJ,Brazil,20040-020,+55 (21) 2271-7000,roberto.almeida@riotur.gov.br,3,Roberto Almeida
+12,13,Qe 7 Bloco G,Brasília,DF,Brazil,71020-677,+55 (61) 3363-5547,fernadaramos4@uol.com.br,4,Fernanda Ramos
+13,14,8210 111 ST NW,Edmonton,AB,Canada,T6G 2C7,+1 (780) 434-4554,mphilips12@shaw.ca,5,Mark Philips
+14,15,700 W Pender Street,Vancouver,BC,Canada,V6C 1G8,+1 (604) 688-2255,jenniferp@rogers.ca,3,Jennifer Peterson
+15,16,1600 Amphitheatre Parkway,Mountain View,CA,USA,94043-1351,+1 (650) 253-0000,fharris@google.com,4,Frank Harris
+16,17,1 Microsoft Way,Redmond,WA,USA,98052-8300,+1 (425) 882-8080,jacksmith@microsoft.com,5,Jack Smith
+17,18,627 Broadway,New York,NY,USA,10012-2612,+1 (212) 221-3546,michelleb@aol.com,3,Michelle Brooks
+18,19,1 Infinite Loop,Cupertino,CA,USA,95014,+1 (408) 996-1010,tgoyer@apple.com,3,Tim Goyer
+19,20,541 Del Medio Avenue,Mountain View,CA,USA,94040-111,+1 (650) 644-3358,dmiller@comcast.com,4,Dan Miller
+20,21,801 W 4th Street,Reno,NV,USA,89503,+1 (775) 223-7665,kachase@hotmail.com,5,Kathy Chase
+21,22,120 S Orange Ave,Orlando,FL,USA,32801,+1 (407) 999-7788,hleacock@gmail.com,4,Heather Leacock
+22,23,69 Salem Street,Boston,MA,USA,2113,+1 (617) 522-1333,johngordon22@yahoo.com,4,John Gordon
+23,24,162 E Superior Street,Chicago,IL,USA,60611,+1 (312) 332-3232,fralston@gmail.com,3,Frank Ralston
+24,25,319 N. Frances Street,Madison,WI,USA,53703,+1 (608) 257-0597,vstevens@yahoo.com,5,Victor Stevens
+25,26,2211 W Berry Street,Fort Worth,TX,USA,76110,+1 (817) 924-7272,ricunningham@hotmail.com,4,Richard Cunningham
+26,27,1033 N Park Ave,Tucson,AZ,USA,85719,+1 (520) 622-4200,patrick.gray@aol.com,4,Patrick Gray
+27,28,302 S 700 E,Salt Lake City,UT,USA,84102,+1 (801) 531-7272,jubarnett@gmail.com,5,Julia Barnett
+28,29,796 Dundas Street West,Toronto,ON,Canada,M6J 1V1,+1 (416) 363-8888,robbrown@shaw.ca,3,Robert Brown
+29,30,230 Elgin Street,Ottawa,ON,Canada,K2P 1L7,+1 (613) 234-3322,edfrancis@yachoo.ca,3,Edward Francis
+30,31,194A Chain Lake Drive,Halifax,NS,Canada,B3S 1C5,+1 (902) 450-0450,marthasilk@gmail.com,5,Martha Silk
+31,32,696 Osborne Street,Winnipeg,MB,Canada,R3L 2B9,+1 (204) 452-6452,aaronmitchell@yahoo.ca,4,Aaron Mitchell
+32,33,5112 48 Street,Yellowknife,NT,Canada,X1A 1N6,+1 (867) 920-2233,ellie.sullivan@shaw.ca,3,Ellie Sullivan
+33,34,Rua da Assunção 53,Lisbon,CA,Portugal,Unknown,+351 (213) 466-111,jfernandes@yahoo.pt,4,João Fernandes
+34,35,"Rua dos Campeões Europeus de Viena, 4350",Porto,CA,Portugal,Unknown,+351 (225) 022-448,masampaio@sapo.pt,4,Madalena Sampaio
+35,36,Tauentzienstraße 8,Berlin,CA,Germany,10789,+49 030 26550280,hannah.schneider@yahoo.de,5,Hannah Schneider
+36,37,Berger Straße 10,Frankfurt,CA,Germany,60316,+49 069 40598889,fzimmermann@yahoo.de,3,Fynn Zimmermann
+37,38,Barbarossastraße 19,Berlin,CA,Germany,10779,+49 030 2141444,nschroder@surfeu.de,3,Niklas Schröder
+38,39,"4, Rue Milton",Paris,CA,France,75009,+33 01 49 70 65 65,camille.bernard@yahoo.fr,4,Camille Bernard
+39,40,"8, Rue Hanovre",Paris,CA,France,75002,+33 01 47 42 71 71,dominiquelefebvre@gmail.com,4,Dominique Lefebvre
+40,41,"11, Place Bellecour",Lyon,CA,France,69002,+33 04 78 30 30 30,marc.dubois@hotmail.com,5,Marc Dubois
+41,42,"9, Place Louis Barthou",Bordeaux,CA,France,33000,+33 05 56 96 96 96,wyatt.girard@yahoo.fr,3,Wyatt Girard
+42,43,"68, Rue Jouvence",Dijon,CA,France,21000,+33 03 80 73 66 99,isabelle_mercier@apple.fr,3,Isabelle Mercier
+43,44,Porthaninkatu 9,Helsinki,CA,Finland,530,+358 09 870 2000,terhi.hamalainen@apple.fi,3,Terhi Hämäläinen
+44,45,Erzsébet krt. 58.,Budapest,CA,Hungary,H-1073,Not Available,ladislav_kovacs@apple.hu,3,Ladislav Kovács
+45,46,3 Chatham Street,Dublin,Dublin,Ireland,Unknown,+353 01 6792424,hughoreilly@apple.ie,3,Hugh O'Reilly
+46,47,"Via Degli Scipioni, 43",Rome,RM,Italy,192,+39 06 39733434,lucas.mancini@yahoo.it,5,Lucas Mancini
+47,48,Lijnbaansgracht 120bg,Amsterdam,VV,Netherlands,1016,+31 020 6223130,johavanderberg@yahoo.nl,5,Johannes Van der Berg
+48,49,Ordynacka 10,Warsaw,CA,Poland,00-358,+48 22 828 37 39,stanisław.wójcik@wp.pl,4,Stanisław Wójcik
+49,50,C/ San Bernardo 85,Madrid,CA,Spain,28015,+34 914 454 454,enrique_munoz@yahoo.es,5,Enrique Muñoz
+50,51,Celsiusg. 9,Stockholm,CA,Sweden,11230,+46 08-651 52 52,joakim.johansson@yahoo.se,5,Joakim Johansson
+51,52,202 Hoxton Street,London,CA,United Kingdom,N1 5LH,+44 020 7707 0707,emma_jones@hotmail.com,3,Emma Jones
+52,53,113 Lupus St,London,CA,United Kingdom,SW1V 3EN,+44 020 7976 5722,phil.hughes@gmail.com,3,Phil Hughes
+53,54,110 Raeburn Pl,Edinburgh ,CA,United Kingdom,EH4 1HH,+44 0131 315 3300,steve.murray@yahoo.uk,5,Steve Murray
+54,55,421 Bourke Street,Sidney,NSW,Australia,2010,+61 (02) 9332 3633,mark.taylor@yahoo.au,4,Mark Taylor
+55,56,307 Macacha Güemes,Buenos Aires,CA,Argentina,1106,+54 (0)11 4311 4333,diego.gutierrez@yahoo.ar,4,Diego Gutiérrez
+56,57,"Calle Lira, 198",Santiago,CA,Chile,Unknown,+56 (0)2 635 4444,luisrojas@yahoo.cl,5,Luis Rojas
+57,58,"12,Community Centre",Delhi,CA,India,110017,+91 0124 39883988,manoj.pareek@rediff.com,3,Manoj Pareek
+58,59,"3,Raj Bhavan Road",Bangalore,CA,India,560001,+91 080 22289999,rishabh_mishra@yahoo.in,3,Rishabh Mishra
