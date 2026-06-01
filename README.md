@@ -1,5 +1,5 @@
 # ITUNE-MUSIC-INSIGHTS
-Analyze customer purchasing behavior and identify churn patterns using transactional data.
+AnalyzeD customer purchasing behavior and identify churn patterns using transactional data.
 
 Tools & Technologies:
 PYTHON(DATA CLEANING)
