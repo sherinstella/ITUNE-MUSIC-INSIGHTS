@@ -54,6 +54,8 @@ Identity High revenue Generating Tracks,Artist,Genre<br><br>
 Yearly Wise Comparison<br><br>
 
 Screesnshots:<br><br>
+PYTHON DATA CLEANING:<br><br>
+SQL QUERIES:<br><br>
 EXECUTIVE:<br><br>
 ANALYSIS:<br><br>
 EMPLOYEE AND CUSTOMER:<br><br>
